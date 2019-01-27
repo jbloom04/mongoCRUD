@@ -16,3 +16,6 @@ C:\Users\John\Documents\Visual Studio 2017\Projects\MongoDB_Test\MongoDB_Test\ob
 C:\Users\John\Documents\Visual Studio 2017\Projects\MongoDB_Test\MongoDB_Test\obj\Debug\MongoDB_Test.csproj.CopyComplete
 C:\Users\John\Documents\Visual Studio 2017\Projects\MongoDB_Test\MongoDB_Test\obj\Debug\MongoDB_Test.exe
 C:\Users\John\Documents\Visual Studio 2017\Projects\MongoDB_Test\MongoDB_Test\obj\Debug\MongoDB_Test.pdb
+C:\Users\Opulent\Desktop\jon class\mongoCRUD\MongoDB_Test\bin\Debug\MongoDB_Test.exe.config
+C:\Users\Opulent\Desktop\jon class\mongoCRUD\MongoDB_Test\obj\Debug\MongoDB_Test.exe
+C:\Users\Opulent\Desktop\jon class\mongoCRUD\MongoDB_Test\obj\Debug\MongoDB_Test.pdb
