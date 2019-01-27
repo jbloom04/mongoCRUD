@@ -21,7 +21,7 @@ namespace MongoDB_Test
         public static void Execute_()
         {
             
-            var p = System.Web.HttpUtility.UrlEncode("#12345");
+            var p = System.Web.HttpUtility.UrlEncode("#12");
             var conn = "mongodb://jbloo5:" + p + "@jontest-shard-00-00-v3de0.mongodb.net:27017,jontest-shard-00-01-v3de0.mongodb.net:27017,jontest-shard-00-02-v3de0.mongodb.net:27017/test?ssl=true&replicaSet=JonTest-shard-0&authSource=admin";
             //var client = new MongoClient("mongodb://jbloo5:<PASSWORD>@jontest-shard-00-00-v3de0.mongodb.net:27017,jontest-shard-00-01-v3de0.mongodb.net:27017,jontest-shard-00-02-v3de0.mongodb.net:27017/test?ssl=true&replicaSet=JonTest-shard-0&authSource=admin");
             //var c = "mongodb+srv://jbloo5:" + p + "@jontest-v3de0.mongodb.net/test?retryWrites=true";
